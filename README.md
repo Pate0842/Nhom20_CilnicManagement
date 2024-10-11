@@ -6,4 +6,4 @@ SPRINT 1
 SPRINT 2
 * Sprint 2 report 
 SPRINT 3
-* Sprint 3 report 
+••• Sprint 3 report 
